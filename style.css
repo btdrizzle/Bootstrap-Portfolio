@@ -55,6 +55,14 @@ nav {
 .card {
     margin: auto;
 }
+.card-img-overlay {
+    padding: 0;
+}
+.card-img-overlay .card-title {
+	background: rgba(0,0,0,.5);
+    color: #fff;
+    text-align: center;
+}
 .footer {
     position: absolute;
     bottom: 0;
