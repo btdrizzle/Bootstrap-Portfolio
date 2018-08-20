@@ -49,20 +49,12 @@ nav {
     margin: auto;
     text-align: right;
 }
+#bigcontainer h2 {
+    margin: auto;
+}
 .card {
     margin: auto;
 }
-
-
-
-
-
-
-
-
-
-
-
 .footer {
     position: absolute;
     bottom: 0;
