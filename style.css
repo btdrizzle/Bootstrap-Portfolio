@@ -55,7 +55,7 @@ nav {
 .card {
     margin: auto;
 }
-.card-img {
+.card > img {
     max-height: 400px;
 }
 .card-img-overlay { /* Makes the band go all the way across the top */
