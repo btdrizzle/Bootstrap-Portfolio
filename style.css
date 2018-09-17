@@ -55,6 +55,9 @@ nav {
 .card {
     margin: auto;
 }
+.card:hover {
+    cursor: pointer;
+}
 .card > img {
     max-height: 400px;
 }
